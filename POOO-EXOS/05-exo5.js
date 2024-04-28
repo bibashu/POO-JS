@@ -12,8 +12,8 @@ class Personness{
 // La classe Personness a désormais accès à la variable sans hériter de la classe Adresse.
 
         this.adresse = new Adresse(rue, ville, codePostal)
-        this.nom =nom
-        this.age =age
+        this.nom = nom
+        this.age = age
     }
 }
 

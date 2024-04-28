@@ -1,0 +1,13 @@
+.divList{
+    color: red;
+    background-color: red;
+}
+
+
+
+button{
+    background-color: rgb(129, 129, 216);
+    color: white;
+    border: none;
+    float: right;
+}

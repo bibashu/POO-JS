@@ -1,6 +1,0 @@
-class EditeurDeTexte{
-
-    ecouteurEvenement(){
-        addEventListener()
-    }
-}

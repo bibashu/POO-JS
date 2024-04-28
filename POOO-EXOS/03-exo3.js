@@ -12,7 +12,7 @@ class Personnes {
     let Chaine_tranformer = JSON.parse(ChaineJSON);
     
     // console.log(Chaine_tranformer);
-    // retourne un objet JS personnes
+    // alert retourne un objet JS personnes
  
     return new Personnes(Chaine_tranformer.nom, Chaine_tranformer.prenom, Chaine_tranformer.age, Chaine_tranformer.ville)
    }
